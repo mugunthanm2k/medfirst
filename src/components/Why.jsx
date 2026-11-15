@@ -6,8 +6,8 @@ export default function Why() {
     <section id="why" className="bg-ink py-20 text-white sm:py-28">
       <div className="mx-auto grid max-w-7xl gap-14 px-5 lg:grid-cols-12">
         <div className="self-start lg:sticky lg:top-28 lg:col-span-4">
-          <SectionHead title="Why people choose Medfirst" light>
-            Professional, compassionate care that lets patients heal at home and keeps families at ease.
+          <SectionHead title="Why choose Medfirst" light>
+            Professional and compassionate healthcare at home, ensuring patients receive dedicated care while families enjoy greater peace of mind.
           </SectionHead>
           <a href={waLink('Hi Medfirst, I would like to talk about care for my family member.')} target="_blank" rel="noreferrer"
             className="mt-8 inline-flex items-center gap-2.5 rounded-full bg-white px-7 py-3.5 text-sm font-bold text-ink transition hover:bg-brand-100">

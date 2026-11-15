@@ -2,10 +2,10 @@
 export const ORG = {
   name: 'Medfirst Healthcare Services',
   email: 'info@themedfirst.com',
-  whatsapp: '919363741508',
+  whatsapp: '93637 41508',
   whatsappLabel: '93637 41508',
   phones: [
-    { label: '90870 41508', tel: '+919087041508' },
+    { label: '93637 41508', tel: '+9193637 41508' },
     { label: '96001 41337', tel: '+919600141337' },
   ],
   instagram: { label: 'medfirst_nursing_homecare', url: 'https://www.instagram.com/medfirst_nursing_homecare/' },
