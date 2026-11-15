@@ -1,0 +1,743 @@
+[
+ {
+  "id": "disability-care",
+  "title": "Disability Care",
+  "category": "elderly-disability",
+  "icon": "Accessibility",
+  "doctorAdvice": false,
+  "summary": "Patients can live in their own home while receiving the right level of support.",
+  "benefits": [
+   {
+    "title": "Independence & Dignity",
+    "points": [
+     "Patients can live in their own home while receiving the right level of support.",
+     "Promotes self-respect and independence in daily activities."
+    ]
+   },
+   {
+    "title": "Personalized Assistance",
+    "points": [
+     "Care tailored to each patient’s unique disability, medical condition, and lifestyle.",
+     "Includes mobility support, therapy, personal hygiene, and medication management."
+    ]
+   },
+   {
+    "title": "Family Involvement",
+    "points": [
+     "Loved ones can actively support the patient, ensuring a strong emotional bond.",
+     "Encourages participation in decision-making about care."
+    ]
+   },
+   {
+    "title": "Convenience & Comfort",
+    "points": [
+     "Patients avoid hospital stays and receive compassionate care in familiar surroundings.",
+     "Less stressful, especially for children, elderly, or bedridden patients."
+    ]
+   },
+   {
+    "title": "24/7 Support",
+    "points": [
+     "Round-the-clock assistance for patients with severe disabilities.",
+     "Peace of mind for families knowing professional care is always available."
+    ]
+   },
+   {
+    "title": "Cost-Effective Alternative",
+    "points": [
+     "More affordable than long-term institutional care.",
+     "Flexible packages depending on patient needs."
+    ]
+   },
+   {
+    "title": "Improved Quality of Life",
+    "points": [
+     "Focuses not only on medical needs but also on emotional, social, and spiritual care.",
+     "Helps patients live with dignity, comfort, and happiness."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dressings",
+  "title": "All Types of Dressings",
+  "category": "procedures",
+  "icon": "Bandage",
+  "doctorAdvice": false,
+  "summary": "Skilled nurses ensure proper cleaning, dressing, and infection control.",
+  "benefits": [
+   {
+    "title": "Professional & Safe Treatment",
+    "points": [
+     "Skilled nurses ensure proper cleaning, dressing, and infection control.",
+     "Reduces the risk of complications and promotes faster healing."
+    ]
+   },
+   {
+    "title": "Comfort at Home",
+    "points": [
+     "No need to travel with painful or sensitive wounds.",
+     "Care is given in the patient’s own safe and comfortable environment."
+    ]
+   },
+   {
+    "title": "Infection Prevention",
+    "points": [
+     "Proper sterile techniques used at home lower the risk of hospital-acquired infections.",
+     "Early detection of infection signs (redness, pus, swelling)."
+    ]
+   },
+   {
+    "title": "Faster Healing",
+    "points": [
+     "Regular monitoring and correct dressing techniques speed up recovery.",
+     "Special dressings (for burns, diabetic wounds, or bedsores) available when needed."
+    ]
+   },
+   {
+    "title": "Personalized Care",
+    "points": [
+     "Dressings selected according to wound type (accident cuts, surgical stitches, diabetic ulcers, pressure sores).",
+     "Customized frequency of dressing changes."
+    ]
+   },
+   {
+    "title": "Reduced Hospital Visits",
+    "points": [
+     "Saves patients the stress and expense of frequent hospital trips.",
+     "Convenient for bedridden or elderly patients."
+    ]
+   },
+   {
+    "title": "Cost-Effective",
+    "points": [
+     "Avoids repeated OPD or emergency charges for simple dressings.",
+     "Flexible care packages as per wound condition."
+    ]
+   },
+   {
+    "title": "Peace of Mind",
+    "points": [
+     "Families feel reassured that a trained nurse is monitoring the wound regularly.",
+     "Early intervention if healing slows or infection worsens."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "injections",
+  "title": "Injections",
+  "category": "procedures",
+  "icon": "Syringe",
+  "doctorAdvice": true,
+  "summary": "No need to travel to hospitals or clinics for injections.",
+  "benefits": [
+   {
+    "title": "Comfort at Home",
+    "points": [
+     "No need to travel to hospitals or clinics for injections."
+    ]
+   },
+   {
+    "title": "Professional & Safe Care",
+    "points": [
+     "Administered by trained nurses under sterile conditions."
+    ]
+   },
+   {
+    "title": "Personalized Attention",
+    "points": [
+     "Timely doses as prescribed by the doctor, with close monitoring."
+    ]
+   },
+   {
+    "title": "Reduced Hospital Visits",
+    "points": [
+     "Saves time, effort, and stress, especially for elderly or weak patients."
+    ]
+   },
+   {
+    "title": "Cost-Effective & Peace of Mind",
+    "points": [
+     "More affordable than frequent hospital/clinic visits.",
+     "Affordable service with the assurance of safe and accurate treatment."
+    ]
+   },
+   {
+    "title": "Timely Monitoring",
+    "points": [
+     "Nurses keep a close watch on reactions or side effects after injection."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "home-nursing",
+  "title": "24/7 Home Nursing / Aide Service",
+  "category": "nursing",
+  "icon": "Clock",
+  "doctorAdvice": false,
+  "summary": "Round-the-clock nursing care in the patient’s own safe and familiar environment.",
+  "benefits": [
+   {
+    "title": "Comfort at Home",
+    "points": [
+     "Round-the-clock nursing care in the patient’s own safe and familiar environment."
+    ]
+   },
+   {
+    "title": "Professional & Safe Treatment",
+    "points": [
+     "Skilled nurses provide medical support, medication, and monitoring."
+    ]
+   },
+   {
+    "title": "Personalized Care",
+    "points": [
+     "Care plans tailored to the patient’s illness, recovery needs, or long-term condition."
+    ]
+   },
+   {
+    "title": "Reduced Hospital Visits",
+    "points": [
+     "Avoid unnecessary admissions by getting continuous care at home."
+    ]
+   },
+   {
+    "title": "Cost-Effective",
+    "points": [
+     "Saves high hospital stay charges while ensuring quality nursing care."
+    ]
+   },
+   {
+    "title": "Peace of Mind",
+    "points": [
+     "Families can relax knowing their loved one is under professional supervision 24/7."
+    ]
+   },
+   {
+    "title": "Emergency Readiness",
+    "points": [
+     "Nurses are trained to respond quickly to sudden changes in condition."
+    ]
+   },
+   {
+    "title": "Ideal for Critical & Long-Term Patients",
+    "points": [
+     "Best for elderly, bedridden, post-surgery, or chronic illness care."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "post-hospital",
+  "title": "Post-Hospital Care",
+  "category": "nursing",
+  "icon": "ClipboardCheck",
+  "doctorAdvice": true,
+  "summary": "Recover in your own familiar environment, reducing stress and anxiety.",
+  "benefits": [
+   {
+    "title": "Comfort at Home",
+    "points": [
+     "Recover in your own familiar environment, reducing stress and anxiety."
+    ]
+   },
+   {
+    "title": "Professional & Safe Treatment",
+    "points": [
+     "Skilled nurses follow doctor’s instructions for medicines, dressings, and monitoring."
+    ]
+   },
+   {
+    "title": "Personalized Care",
+    "points": [
+     "Tailored recovery plans for surgery, illness, or long-term conditions."
+    ]
+   },
+   {
+    "title": "Reduced Hospital Visits",
+    "points": [
+     "Avoid repeated readmissions by managing care at home."
+    ]
+   },
+   {
+    "title": "Cost-Effective",
+    "points": [
+     "Save on expensive hospital stays while still receiving expert care."
+    ]
+   },
+   {
+    "title": "Peace of Mind",
+    "points": [
+     "Families feel reassured that recovery is happening under safe supervision."
+    ]
+   },
+   {
+    "title": "Timely Monitoring",
+    "points": [
+     "Early detection of complications ensures quicker intervention."
+    ]
+   },
+   {
+    "title": "Faster Recovery",
+    "points": [
+     "Continuous nursing, physiotherapy, and proper diet guidance help patients heal sooner."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "elderly-care",
+  "title": "Elderly Care",
+  "category": "elderly-disability",
+  "icon": "HeartHandshake",
+  "doctorAdvice": false,
+  "summary": "Seniors stay in their own familiar surroundings, reducing stress and loneliness.",
+  "benefits": [
+   {
+    "title": "Comfort at Home",
+    "points": [
+     "Seniors stay in their own familiar surroundings, reducing stress and loneliness."
+    ]
+   },
+   {
+    "title": "Professional & Safe Treatment",
+    "points": [
+     "Trained nurses/caregivers provide medical support, hygiene care, and mobility assistance."
+    ]
+   },
+   {
+    "title": "Personalized Care",
+    "points": [
+     "Services tailored to each elder’s health condition, routine, and preferences."
+    ]
+   },
+   {
+    "title": "Reduced Hospital Visits",
+    "points": [
+     "Regular monitoring and timely care help prevent unnecessary admissions."
+    ]
+   },
+   {
+    "title": "Cost-Effective",
+    "points": [
+     "Affordable alternative to long hospital or nursing home stays."
+    ]
+   },
+   {
+    "title": "Peace of Mind",
+    "points": [
+     "Families feel reassured that parents are cared for with compassion and respect."
+    ]
+   },
+   {
+    "title": "Improved Quality of Life",
+    "points": [
+     "Focus on dignity, independence, and overall wellbeing."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "health-monitoring",
+  "title": "Health Monitoring at Home",
+  "category": "monitoring",
+  "icon": "Activity",
+  "doctorAdvice": false,
+  "summary": "Regular health checks done in a safe and familiar environment.",
+  "benefits": [
+   {
+    "title": "Comfort at Home",
+    "points": [
+     "Regular health checks done in a safe and familiar environment."
+    ]
+   },
+   {
+    "title": "Professional & Safe Treatment",
+    "points": [
+     "Skilled nurses track vitals like BP, sugar, oxygen, and temperature accurately."
+    ]
+   },
+   {
+    "title": "Personalized Care",
+    "points": [
+     "Monitoring tailored to each patient’s medical condition and doctor’s advice."
+    ]
+   },
+   {
+    "title": "Reduced Hospital Visits",
+    "points": [
+     "Prevents unnecessary trips for routine check-ups."
+    ]
+   },
+   {
+    "title": "Cost-Effective",
+    "points": [
+     "Saves money compared to frequent clinic or hospital visits."
+    ]
+   },
+   {
+    "title": "Peace of Mind",
+    "points": [
+     "Families stay reassured with regular updates on patient’s health."
+    ]
+   },
+   {
+    "title": "Early Detection of Problems",
+    "points": [
+     "Quick identification of abnormal changes helps prevent complications."
+    ]
+   },
+   {
+    "title": "Ideal for Chronic & Elderly Patients",
+    "points": [
+     "Best for diabetes, hypertension, heart disease, post-surgery recovery, or long-term care."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "blood-sample",
+  "title": "Blood Sample Collection at Home",
+  "category": "monitoring",
+  "icon": "Droplets",
+  "doctorAdvice": false,
+  "summary": "No need to travel or wait in long queues at labs or hospitals.",
+  "benefits": [
+   {
+    "title": "Comfort at Home",
+    "points": [
+     "No need to travel or wait in long queues at labs or hospitals."
+    ]
+   },
+   {
+    "title": "Professional & Safe Treatment",
+    "points": [
+     "Samples collected by trained nurses under sterile conditions."
+    ]
+   },
+   {
+    "title": "Personalized Care",
+    "points": [
+     "Convenient scheduling at the patient’s preferred time."
+    ]
+   },
+   {
+    "title": "Reduced Hospital Visits",
+    "points": [
+     "Ideal for bedridden, elderly, or chronically ill patients."
+    ]
+   },
+   {
+    "title": "Cost-Effective",
+    "points": [
+     "Saves transport and hospital visit expenses."
+    ]
+   },
+   {
+    "title": "Peace of Mind",
+    "points": [
+     "Families feel assured that safe and accurate procedures are followed."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tracheostomy",
+  "title": "Tracheostomy Care at Home",
+  "category": "procedures",
+  "icon": "Wind",
+  "doctorAdvice": true,
+  "summary": "Specialized care provided in a safe and familiar environment.",
+  "benefits": [
+   {
+    "title": "Comfort at Home",
+    "points": [
+     "Specialized care provided in a safe and familiar environment."
+    ]
+   },
+   {
+    "title": "Professional & Safe Treatment",
+    "points": [
+     "Skilled nurses trained in tracheostomy suctioning, tube care, and airway management."
+    ]
+   },
+   {
+    "title": "Personalized Care",
+    "points": [
+     "Care tailored to patient’s medical condition and doctor’s instructions."
+    ]
+   },
+   {
+    "title": "Reduced Hospital Visits",
+    "points": [
+     "Avoids frequent admissions for routine tracheostomy management."
+    ]
+   },
+   {
+    "title": "Cost-Effective",
+    "points": [
+     "Saves on high hospital charges while maintaining professional standards."
+    ]
+   },
+   {
+    "title": "Peace of Mind",
+    "points": [
+     "Families feel secure knowing trained professionals are handling critical care."
+    ]
+   },
+   {
+    "title": "Infection Prevention",
+    "points": [
+     "Proper cleaning and sterile techniques reduce the risk of complications."
+    ]
+   },
+   {
+    "title": "Emergency Readiness",
+    "points": [
+     "Nurses can respond quickly to breathing difficulties or tube blockages."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ryles-tube",
+  "title": "Ryle’s Tube Care at Home",
+  "category": "procedures",
+  "icon": "Soup",
+  "doctorAdvice": true,
+  "summary": "Tube feeding and care provided in the patient’s own safe and familiar environment.",
+  "benefits": [
+   {
+    "title": "Comfort at Home",
+    "points": [
+     "Tube feeding and care provided in the patient’s own safe and familiar environment."
+    ]
+   },
+   {
+    "title": "Professional & Safe Treatment",
+    "points": [
+     "Skilled nurses handle insertion, feeding, and maintenance under sterile conditions."
+    ]
+   },
+   {
+    "title": "Personalized Care",
+    "points": [
+     "Feeding schedules and nutrition tailored to the patient’s doctor’s advice."
+    ]
+   },
+   {
+    "title": "Reduced Hospital Visits",
+    "points": [
+     "Avoids frequent hospital trips for tube feeding or care."
+    ]
+   },
+   {
+    "title": "Cost-Effective",
+    "points": [
+     "Saves high hospital costs while ensuring expert support."
+    ]
+   },
+   {
+    "title": "Peace of Mind",
+    "points": [
+     "Families feel assured that feeding is safe, hygienic, and accurate."
+    ]
+   },
+   {
+    "title": "Infection Prevention",
+    "points": [
+     "Proper cleaning and monitoring to prevent blockages or complications."
+    ]
+   },
+   {
+    "title": "Ideal for Critical & Long-Term Patients",
+    "points": [
+     "Best for stroke recovery, unconscious patients, bedridden elderly, or post-surgery cases."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "colostomy",
+  "title": "Colostomy Care",
+  "category": "procedures",
+  "icon": "CircleDot",
+  "doctorAdvice": true,
+  "summary": "Care provided in a private, familiar environment, reducing discomfort and stress.",
+  "benefits": [
+   {
+    "title": "Comfort at Home",
+    "points": [
+     "Care provided in a private, familiar environment, reducing discomfort and stress."
+    ]
+   },
+   {
+    "title": "Professional & Safe Treatment",
+    "points": [
+     "Skilled nurses handle pouch changing, cleaning, and stoma care with sterile techniques."
+    ]
+   },
+   {
+    "title": "Personalized Care",
+    "points": [
+     "Care plans tailored to the patient’s medical condition and doctor’s instructions."
+    ]
+   },
+   {
+    "title": "Reduced Hospital Visits",
+    "points": [
+     "Prevents repeated trips for colostomy bag changes or complications."
+    ]
+   },
+   {
+    "title": "Cost-Effective",
+    "points": [
+     "Saves money compared to frequent hospital-based procedures."
+    ]
+   },
+   {
+    "title": "Peace of Mind",
+    "points": [
+     "Families feel reassured that sensitive care is provided with dignity and expertise."
+    ]
+   },
+   {
+    "title": "Infection Prevention",
+    "points": [
+     "Proper cleaning and monitoring reduce the risk of leakage, odor, or stoma infection."
+    ]
+   },
+   {
+    "title": "Support & Education",
+    "points": [
+     "Guidance for patients and families on managing daily life with a colostomy bag confidently."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "catheter",
+  "title": "Catheter Care at Home",
+  "category": "procedures",
+  "icon": "Droplet",
+  "doctorAdvice": true,
+  "summary": "Catheter insertion, care, and monitoring done in a safe and familiar environment.",
+  "benefits": [
+   {
+    "title": "Comfort at Home",
+    "points": [
+     "Catheter insertion, care, and monitoring done in a safe and familiar environment."
+    ]
+   },
+   {
+    "title": "Professional & Safe Treatment",
+    "points": [
+     "Trained nurses follow sterile procedures to prevent infections."
+    ]
+   },
+   {
+    "title": "Personalized Care",
+    "points": [
+     "Care tailored to the patient’s health needs and doctor’s advice."
+    ]
+   },
+   {
+    "title": "Reduced Hospital Visits",
+    "points": [
+     "No need for frequent hospital trips for catheter changes or cleaning."
+    ]
+   },
+   {
+    "title": "Cost-Effective",
+    "points": [
+     "Saves on hospital charges while ensuring expert nursing support."
+    ]
+   },
+   {
+    "title": "Peace of Mind",
+    "points": [
+     "Families feel reassured that sensitive care is managed correctly."
+    ]
+   },
+   {
+    "title": "Infection Prevention",
+    "points": [
+     "Regular cleaning and monitoring help avoid complications."
+    ]
+   },
+   {
+    "title": "Ideal for Long-Term Patients",
+    "points": [
+     "Best for elderly, bedridden, post-surgical, or chronically ill patients."
+    ]
+   }
+  ]
+ },
+ {
+  "id": "wound-care",
+  "title": "Major Wound Care at Home",
+  "category": "procedures",
+  "icon": "ShieldPlus",
+  "doctorAdvice": false,
+  "summary": "Receive wound care in your own safe and familiar environment, avoiding the pain and stress of travel.",
+  "benefits": [
+   {
+    "title": "Comfort at Home",
+    "points": [
+     "Receive wound care in your own safe and familiar environment, avoiding the pain and stress of travel.",
+     "This makes recovery easier, especially for bedridden or post-surgical patients."
+    ]
+   },
+   {
+    "title": "Professional & Safe Treatment",
+    "points": [
+     "Skilled nurses use sterile techniques for cleaning, dressing, and monitoring wounds.",
+     "This reduces the risk of infection and ensures the wound is healing properly."
+    ]
+   },
+   {
+    "title": "Personalized Care",
+    "points": [
+     "Every wound is different — care is tailored for surgical cuts, accident injuries, diabetic ulcers, or infected wounds. Treatment is planned exactly as per your doctor’s advice."
+    ]
+   },
+   {
+    "title": "Reduced Hospital Visits",
+    "points": [
+     "No more repeated dressing trips to the hospital or clinic.",
+     "Regular home visits save time, effort, and discomfort for patients and families."
+    ]
+   },
+   {
+    "title": "Cost-Effective",
+    "points": [
+     "Home wound care is more affordable than frequent hospital procedures.",
+     "It also helps reduce travel costs and hospital admission charges."
+    ]
+   },
+   {
+    "title": "Peace of Mind",
+    "points": [
+     "Families can relax knowing the wound is being cared for by trained professionals.",
+     "Regular updates and monitoring provide reassurance during recovery."
+    ]
+   },
+   {
+    "title": "Infection Prevention",
+    "points": [
+     "Proper cleaning, dressing, and early detection of complications help avoid serious infections.",
+     "This is especially important for diabetic or elderly patients with slow-healing wounds."
+    ]
+   },
+   {
+    "title": "Faster Recovery",
+    "points": [
+     "Consistent monitoring and correct dressing techniques speed up wound healing.",
+     "Patients regain comfort and mobility sooner with professional home support."
+    ]
+   }
+  ]
+ }
+]

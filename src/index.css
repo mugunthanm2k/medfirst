@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html { scroll-behavior: smooth; scroll-padding-top: 5rem; }
+  body { @apply bg-white font-sans text-slate-700 antialiased; }
+  ::selection { background: #dfe1ff; color: #0a0f3c; }
+  :focus-visible { outline: 3px solid #2222f2; outline-offset: 3px; border-radius: 6px; }
+}
+
+@layer utilities {
+  .no-scrollbar { scrollbar-width: none; }
+  .no-scrollbar::-webkit-scrollbar { display: none; }
+}
+
+/* The one hero moment: the ECG line draws itself once. */
+@keyframes ecg { from { stroke-dashoffset: 1; } to { stroke-dashoffset: 0; } }
+.ecg-line { stroke-dasharray: 1; animation: ecg 2.6s cubic-bezier(.4,0,.2,1) .4s both; }
+
+/* Service detail drawer: bottom sheet on phones, side panel from sm up. */
+@keyframes sheet { from { transform: translateY(100%); } to { transform: none; } }
+@keyframes side { from { transform: translateX(100%); } to { transform: none; } }
+@keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+.drawer { animation: sheet .3s cubic-bezier(.2,.8,.2,1) both; }
+.scrim { animation: fade .25s ease both; }
+@media (min-width: 640px) { .drawer { animation-name: side; } }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .ecg-line, .drawer, .scrim { animation: none; stroke-dashoffset: 0; }
+}
