@@ -7,6 +7,7 @@ import Contact from './components/Contact'
 import Location from './components/Location'
 import Footer from './components/Footer'
 import Floating from './components/Floating'
+import Reviews from './components/Reviews'
 
 export default function App() {
   return (
@@ -17,6 +18,7 @@ export default function App() {
         <Services />
         <Why />
         <Process />
+        <Reviews />
         <Contact />
         <Location />
       </main>
