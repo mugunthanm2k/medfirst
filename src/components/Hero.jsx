@@ -2,6 +2,7 @@ import { Phone, Clock, Stethoscope, ShieldCheck } from 'lucide-react'
 import { SITE, waLink } from '../data/site'
 import { WhatsAppIcon } from './ui'
 
+
 const Ecg = ({ className = '' }) => (
   <svg viewBox="0 0 600 120" fill="none" className={className} aria-hidden="true" preserveAspectRatio="none">
     <path className="ecg-line" pathLength="1" stroke="#f0669f" strokeWidth="4" strokeLinecap="round" strokeLinejoin="round"
@@ -46,7 +47,12 @@ export default function Hero() {
 
         <div className="relative mx-auto w-full max-w-md lg:col-span-5 lg:max-w-none">
           <div className="relative grid aspect-[5/5.4] place-items-center overflow-hidden rounded-[2.5rem] bg-white shadow-[0_40px_90px_-40px_rgba(34,34,242,.45)] ring-1 ring-brand/10">
-            <img src="/logo-mark.png" alt="Medfirst logo: a caring hand cradling a heart with a pulse line" className="mb-10 w-[56%]" />
+
+<img
+  src={`${import.meta.env.BASE_URL}logo-mark.png`}
+  alt="Medfirst logo: a caring hand cradling a heart with a pulse line"
+  className="mb-10 w-[56%]"
+/>
             <Ecg className="absolute inset-x-0 bottom-[13%] h-20 w-full" />
           </div>
           <Chip icon={Clock} className="left-3 top-6 sm:-left-5">24/7 availability</Chip>
