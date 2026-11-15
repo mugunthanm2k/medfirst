@@ -3,7 +3,7 @@ export const SITE = {
   email: 'info@themedfirst.com',
   whatsapp: { display: '93637 41508', number: '919363741508' },
   phones: [
-    { display: '90870 41508', tel: '+919087041508' },
+    { display: '93637 41508', tel: '+9193637 41508' },
     { display: '96001 41337', tel: '+919600141337' },
   ],
   // Replace with the real page links when you have them.
