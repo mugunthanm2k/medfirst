@@ -16,7 +16,7 @@ export default function Navbar() {
     <header className={`fixed inset-x-0 top-0 z-40 transition ${scrolled || open ? 'bg-white/90 shadow-card backdrop-blur-md' : ''}`}>
       <nav className="section flex h-16 items-center justify-between" aria-label="Main">
         <a href="#top" className="flex items-center gap-2.5" aria-label="Medfirst home">
-          <img src="/logo-mark.png" alt="" className="h-9 w-auto" />
+          <img src={`${import.meta.env.BASE_URL}logo-mark.png`} alt="" className="h-9 w-auto" />
           <span className="leading-none">
             <span className="block font-display text-xl font-extrabold text-brand">Medfirst</span>
             <span className="block text-[11px] font-semibold text-ink/60">Healthcare services</span>

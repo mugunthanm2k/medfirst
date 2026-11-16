@@ -208,6 +208,23 @@ export const SERVICES = [
       extra: [['Infection Prevention', 'Proper cleaning, dressing and early detection of complications help avoid serious infections, especially for diabetic or elderly patients.']],
     }),
   },
+  {
+    id: 'diabetic-wound', name: 'Diabetic Wound Care at Home', icon: 'Footprints', cat: 'Wounds & Dressings',
+    summary: 'Professional diabetic wound care at home, without the stress of frequent travel.',
+    ideal: 'Diabetic foot ulcers, pressure wounds and other diabetes-related wounds, planned as per doctor’s advice.',
+    points: std({
+      comfort: 'Receive diabetic wound care in your own safe and familiar environment, especially helpful for elderly, bedridden and mobility-restricted patients.',
+      safe: 'Trained nurses provide wound cleaning, dressing and monitoring using sterile techniques, helping identify complications early.',
+      personal: 'Care is tailored to diabetic foot ulcers, pressure wounds and other diabetes-related wounds, planned according to the patient’s condition and doctor’s advice.',
+      visits: 'Avoid repeated trips to hospitals or clinics for routine dressing. Home visits save time, effort and discomfort.',
+      cost: 'Helps reduce travel expenses and frequent clinic visit costs. Service charges depend on wound condition and care requirements.',
+      peace: 'Families stay reassured and informed through regular monitoring and updates.',
+      extra: [
+        ['Infection Prevention', 'Proper cleaning, dressing and monitoring reduce infection risk. Early identification of redness, swelling or discharge is particularly important for people with diabetes.'],
+        ['Support for Better Healing', 'Consistent care, appropriate dressing techniques and regular monitoring support healing, along with following the doctor’s plan and proper diabetes management.'],
+      ],
+    }),
+  },
 ]
 
 export const HIGHLIGHTS = [

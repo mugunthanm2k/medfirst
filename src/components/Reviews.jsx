@@ -29,9 +29,9 @@ export default function Reviews() {
             </div>
           )}
         </div>
-        <div className="mt-10 grid gap-5 md:grid-cols-2 lg:grid-cols-3">
+        <div className="mt-10 grid grid-cols-1 gap-5 md:grid-cols-2 lg:grid-cols-3">
           {REVIEWS.map((r, i) => (
-            <figure key={i} className="flex flex-col rounded-3xl bg-white p-7 ring-1 ring-slate-200 shadow-[0_30px_80px_-50px_rgba(34,34,242,.35)]">
+            <figure key={i} className="flex min-w-0 flex-col rounded-3xl bg-white p-7 ring-1 ring-slate-200 shadow-[0_30px_80px_-50px_rgba(34,34,242,.35)]">
               <Quote className="h-7 w-7 text-brand/30" aria-hidden="true" />
               <blockquote className="mt-3 flex-1 text-[15px] leading-relaxed text-slate-700">{r.text}</blockquote>
               <figcaption className="mt-6 flex items-center gap-3 border-t border-slate-100 pt-5">

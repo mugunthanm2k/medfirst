@@ -1,13 +1,13 @@
 import {
   Accessibility, Bandage, Syringe, Clock, ClipboardCheck, HeartHandshake, Activity, Droplets, Wind, Soup,
   CircleDot, Droplet, ShieldPlus, Home, Wallet, Users, UserRound, BadgeCheck, Stethoscope, HeartPulse,
-  ShieldCheck, Repeat, ClipboardList, BedDouble, UsersRound, Heart, Circle,
+  ShieldCheck, Repeat, ClipboardList, BedDouble, UsersRound, Heart, Circle, Footprints,
 } from 'lucide-react'
 
 const ICONS = {
   Accessibility, Bandage, Syringe, Clock, ClipboardCheck, HeartHandshake, Activity, Droplets, Wind, Soup,
   CircleDot, Droplet, ShieldPlus, Home, Wallet, Users, UserRound, BadgeCheck, Stethoscope, HeartPulse,
-  ShieldCheck, Repeat, ClipboardList, BedDouble, UsersRound, Heart,
+  ShieldCheck, Repeat, ClipboardList, BedDouble, UsersRound, Heart, Footprints,
 }
 
 // Resolve a lucide icon by name (names come from the data files).
@@ -18,7 +18,7 @@ export const Icon = ({ name, ...props }) => {
 
 export const Logo = ({ light = false, className = '' }) => (
   <span className={`inline-flex items-center gap-3 ${className}`}>
-    <img src="/logo-mark.png" alt="" className="h-10 w-auto" />
+    <img src={`${import.meta.env.BASE_URL}logo-mark.png`} alt="" className="h-10 w-auto" />
     <span className="leading-none">
       <span className={`block font-display text-xl font-extrabold tracking-tight ${light ? 'text-white' : 'text-brand'}`}>Medfirst</span>
       <span className={`mt-1 block text-[11px] font-semibold tracking-wide ${light ? 'text-white/70' : 'text-slate-500'}`}>Healthcare services</span>

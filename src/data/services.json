@@ -676,66 +676,67 @@
   ]
  },
  {
-  "id": "wound-care",
-  "title": "Major Wound Care at Home",
+  "id": "diabetic-wound-care",
+  "title": "Diabetic Wound Care at Home",
   "category": "procedures",
   "icon": "ShieldPlus",
   "doctorAdvice": false,
-  "summary": "Receive wound care in your own safe and familiar environment, avoiding the pain and stress of travel.",
+  "summary": "Receive diabetic wound care in your own safe and familiar environment, avoiding the discomfort and stress of frequent travel.",
   "benefits": [
    {
     "title": "Comfort at Home",
     "points": [
-     "Receive wound care in your own safe and familiar environment, avoiding the pain and stress of travel.",
-     "This makes recovery easier, especially for bedridden or post-surgical patients."
+     "Receive diabetic wound care in your own safe and familiar environment, avoiding the discomfort and stress of frequent travel.",
+     "Homecare is especially helpful for elderly, bedridden and mobility-restricted patients."
     ]
    },
    {
     "title": "Professional & Safe Treatment",
     "points": [
-     "Skilled nurses use sterile techniques for cleaning, dressing, and monitoring wounds.",
-     "This reduces the risk of infection and ensures the wound is healing properly."
+     "Trained nurses provide professional wound cleaning, dressing and monitoring using appropriate sterile techniques.",
+     "Regular care helps reduce the risk of infection and identify possible complications early."
     ]
    },
    {
     "title": "Personalized Care",
     "points": [
-     "Every wound is different — care is tailored for surgical cuts, accident injuries, diabetic ulcers, or infected wounds. Treatment is planned exactly as per your doctor’s advice."
+     "Every diabetic wound is different. Care is tailored to diabetic foot ulcers, pressure wounds and other diabetes-related wounds.",
+     "Treatment is planned according to the patient’s condition and doctor’s advice."
     ]
    },
    {
     "title": "Reduced Hospital Visits",
     "points": [
-     "No more repeated dressing trips to the hospital or clinic.",
-     "Regular home visits save time, effort, and discomfort for patients and families."
+     "Avoid repeated trips to hospitals or clinics for routine wound dressing.",
+     "Regular home visits save time, effort and discomfort for patients and their families."
     ]
    },
    {
     "title": "Cost-Effective",
     "points": [
-     "Home wound care is more affordable than frequent hospital procedures.",
-     "It also helps reduce travel costs and hospital admission charges."
+     "Home diabetic wound care can help reduce travel expenses and the costs associated with frequent clinic visits.",
+     "Service charges depend on the patient’s wound condition and care requirements."
     ]
    },
    {
     "title": "Peace of Mind",
     "points": [
-     "Families can relax knowing the wound is being cared for by trained professionals.",
-     "Regular updates and monitoring provide reassurance during recovery."
+     "Families can feel reassured knowing their loved one’s wound is receiving attention from trained healthcare professionals.",
+     "Regular monitoring and updates help families stay informed throughout the care process."
     ]
    },
    {
     "title": "Infection Prevention",
     "points": [
-     "Proper cleaning, dressing, and early detection of complications help avoid serious infections.",
-     "This is especially important for diabetic or elderly patients with slow-healing wounds."
+     "Proper wound cleaning, dressing and regular monitoring help reduce infection risks.",
+     "Early identification of redness, swelling, discharge or other warning signs is particularly important for people with diabetes."
     ]
    },
    {
-    "title": "Faster Recovery",
+    "title": "Support for Better Healing",
     "points": [
-     "Consistent monitoring and correct dressing techniques speed up wound healing.",
-     "Patients regain comfort and mobility sooner with professional home support."
+     "Consistent wound care, appropriate dressing techniques and regular monitoring support the healing process.",
+     "Following the doctor’s treatment plan and maintaining proper diabetes management are also important for wound recovery."
     ]
    }
   ]

@@ -30,3 +30,44 @@
   html { scroll-behavior: auto; }
   .ecg-line, .drawer, .scrim { animation: none; stroke-dashoffset: 0; }
 }
+
+/* ===== Mobile-only colour boost (phones < 640px). Tablet/desktop unchanged. ===== */
+@media (max-width: 639.98px) {
+  body { background: #eff0ff; }
+
+  /* Hero: light blue-to-pink wash so the blue/pink logo stays clearly visible */
+  #top {
+    background:
+      radial-gradient(70% 45% at 100% 0%, rgba(34,34,242,.22), transparent),
+      radial-gradient(65% 45% at 0% 100%, rgba(240,102,159,.38), transparent),
+      linear-gradient(160deg, #dfe1ff 0%, #fff1f6 55%, #ffd9e8 100%);
+  }
+  #top h1 { color: #0a0f3c; }
+  #top > div > div:first-child > p:first-child { box-shadow: 0 6px 16px -8px rgba(34,34,242,.35); }
+  #top a[href="#services"] { color: #cf3b79; }
+
+  /* Services: tinted section, coloured cards */
+  #services { background: linear-gradient(180deg, #eff0ff 0%, #fff1f6 100%); }
+  #services [role="tablist"] button[aria-selected="false"] { background: #dfe1ff; color: #1818c4; }
+  #services [role="tablist"] button[aria-selected="true"] { background: #2222f2; color: #fff; }
+  #services ul > li > button { border: 0; box-shadow: 0 10px 26px -14px rgba(34,34,242,.45); border-top: 4px solid #2222f2; }
+  #services ul > li:nth-child(even) > button { border-top-color: #f0669f; box-shadow: 0 10px 26px -14px rgba(240,102,159,.55); }
+  #services ul > li > button > div:first-child > span:first-child { background: #2222f2; color: #fff; }
+  #services ul > li:nth-child(even) > button > div:first-child > span:first-child { background: #f0669f; }
+  #services ul > li:nth-child(even) > button > span:last-child { color: #cf3b79; }
+
+  /* Why: blue gradient with pink icon tiles */
+  #why { background: linear-gradient(170deg, #2222f2 0%, #1818c4 60%, #0a0f3c 100%); }
+  #why dl > div { border-color: rgba(255,255,255,.2); }
+  #why dl > div > span { background: #f0669f; color: #fff; }
+  #why dd { color: rgba(255,255,255,.85); }
+
+  /* Process: soft pink wash, pink/blue step badges */
+  #process { background: linear-gradient(180deg, #fff1f6 0%, #eff0ff 100%); }
+  #process ol > li:nth-child(even) > span.rounded-full { background: #f0669f; box-shadow: 0 10px 20px -8px rgba(240,102,159,.6); }
+
+  /* Reviews / Contact / Location: tinted backgrounds */
+  #reviews { background: linear-gradient(180deg, #dfe1ff 0%, #eff0ff 100%); }
+  #contact { background: linear-gradient(180deg, #fff1f6 0%, #ffffff 100%); }
+  #location { background: #eff0ff; }
+}
